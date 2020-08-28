@@ -1,0 +1,39 @@
+## Lesson 1
+#### create lesson1.html
+#### create lesson1.css
+
+####  Add the following lines on lesson1.css
+
+*,
+*::after,
+*::before {
+    margin: 0;
+    padding: 0;
+    box-sizing: inherit;
+}
+
+html {
+    // This defines what 1rem is 10px;
+    font-size: 62.5%;
+}
+
+// Please use rem instead of px because we need to make habit using rem !
+
+#### add header-tag and footer-tag
+height of head-tag and footer-tag is 80px
+
+#### add main-tag
+height of main-tag is 500px
+
+#### add them in each tag
+Display each word (header, main, footer) in each tag,
+Center each word(header, main, footer) horizontally,
+the color of each word is white,
+the background color is red in header,
+the background color is blue in main,
+the background color is black in footer,
+the width of each tag is full
+
+
+
+
