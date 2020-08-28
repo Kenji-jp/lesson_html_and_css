@@ -2,23 +2,6 @@
 #### create lesson7.html
 #### create lesson7.css
 
-####  Add the following lines on lesson7.css
-
-*,
-*::after,
-*::before {
-    margin: 0;
-    padding: 0;
-    box-sizing: inherit;
-}
-
-html {
-    // This defines what 1rem is 10px;
-    font-size: 62.5%;
-}
-
-// Please use rem instead of px because we need to make habit using rem !
-
 #### add div-tag
 height and width of dev-tag is 500px,
 the background of parent element is black

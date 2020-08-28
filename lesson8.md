@@ -2,23 +2,6 @@
 #### create lesson8.html
 #### create lesson8.css
 
-####  Add the following lines on lesson8.css
-
-*,
-*::after,
-*::before {
-    margin: 0;
-    padding: 0;
-    box-sizing: inherit;
-}
-
-html {
-    // This defines what 1rem is 10px;
-    font-size: 62.5%;
-}
-
-// Please use rem instead of px because we need to make habit using rem !
-
 #### add parent-div-tag
 height of parent-div-tag is 200px,
 width of parent-div-tag is 500px

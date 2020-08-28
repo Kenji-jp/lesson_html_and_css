@@ -2,23 +2,6 @@
 #### create lesson3.html
 #### create lesson3.css
 
-####  Add the following lines on lesson3.css
-
-*,
-*::after,
-*::before {
-    margin: 0;
-    padding: 0;
-    box-sizing: inherit;
-}
-
-html {
-    // This defines what 1rem is 10px;
-    font-size: 62.5%;
-}
-
-// Please use rem instead of px because we need to make habit using rem !
-
 #### add header-tag and footer-tag
 height of head-tag and footer-tag is 80px
 
